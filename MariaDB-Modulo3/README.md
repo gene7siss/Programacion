@@ -20,7 +20,7 @@ MariaDB-Modulo3/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ## Instalacion y Configuracion
 
 1. Abre una terminal en la carpeta principal del proyecto (MariaDB-Modulo3) e instala las dependencias necesarias ejecutando:
