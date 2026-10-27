@@ -11,7 +11,7 @@ CREATE DATABASE bibliotecapersonal;
 USE bibliotecapersonal;
 
 ## Estructura del Proyecto
-
+```text
 MariaDB-Modulo3/
 │
 ├── Codigo Fuente/
