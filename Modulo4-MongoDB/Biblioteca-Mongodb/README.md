@@ -42,7 +42,7 @@ Cada libro registrado se almacena como un documento independiente dentro de la c
   "genero": "Realismo magico",
   "estado": "Leido"
 }
-
+```
 ## 6. Ejemplos de Entradas Validas
 
 - Agregar libro (Opcion 1 del menu):
