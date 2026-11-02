@@ -32,7 +32,7 @@ python main.py
 ## 5. Estructura Esperada del Documento en MongoDB
 
 Cada libro registrado se almacena como un documento independiente dentro de la coleccion libros en la base de datos biblioteca_personal. Su estructura JSON es la siguiente:
-
+```text
 {
   "_id": {
     "$oid": "651a2b3c4d5e6f7a8b9c0d1e"
